@@ -40,7 +40,7 @@ Author: @SJoshua
 2. Scope Validation
    > Scope validation involves acceptance of the completed project deliverables. This acceptance is often achieved by a customer inspection and then sign-off on key deliverables.
 3. WBS
-   > 工作分解结构（**W**ork **B**reakdown **S**tructure）是对项目所涉及工作面向交付成果的分组，它定义了项目的全部范围。
+   > 工作分解结构(**W**ork **B**reakdown **S**tructure)是对项目所涉及工作面向交付成果的分组，它定义了项目的全部范围。
 4. Work Package
    > 一个工作包是WBS最底层的一项任务。
 5. WBS Dictionary
@@ -260,11 +260,11 @@ The SMART criteria are guidelines suggesting that milestones should be:
 
 其遵循DMAIC的五阶段改进流程:
 
-1. 界定（Define）
-2. 度量（Measure）
-3. 分析（Analyze）
-4. 改进（Improve）
-5. 控制（Control）
+1. 界定(Define)
+2. 度量(Measure)
+3. 分析(Analyze)
+4. 改进(Improve)
+5. 控制(Control)
 
 
 ### 马斯洛需求层次 (Maslow’s hierarchy of needs)
@@ -279,11 +279,11 @@ The SMART criteria are guidelines suggesting that milestones should be:
 ### 需求变更流程 (Requirement Change Control) <2008>
 
 ### 三种组织结构 (Organizational Structures) <2008>
-1. 职能型组织结构（functional organization structure）
-   > 职能经理或者一些特定领域（如工程、制造、IT、人力资源等）的专职副总裁报告给首席执行官（CEO）。各部门的人员在相应的专业方面都有专门的技能。
-2. 项目型组织结构（project organization structure）
+1. 职能型组织结构(functional organization structure)
+   > 职能经理或者一些特定领域(如工程、制造、IT、人力资源等)的专职副总裁报告给首席执行官(CEO)。各部门的人员在相应的专业方面都有专门的技能。
+2. 项目型组织结构(project organization structure)
    > 项目经理直接向CEO负责。员工具有多种技能，从而能够按照计划来完成任务。
-3. 矩阵型项目结构（matrix organization structure）
+3. 矩阵型项目结构(matrix organization structure)
    > 职能型和项目型结构的中间形式。个人通常既向职能经理也要向一个或多个项目经理报告。
 
 ### 四种组织frames
@@ -401,7 +401,13 @@ $PERT_{加权平均} = (乐观时间 + 4 \times 最可能时间 + 悲观时间) 
 $Number of Comunication Channels = C(n, 2)$
 
 ## 分析题 (15 pts)
-倾听（认真读题）·感受（放空脑袋）·思考（开始瞎编）
+倾听(认真读题)·感受(放空脑袋)·思考(开始瞎编)
+
+### SWOT分析
+* 优势 (Strength)
+* 劣势 (Weakness)
+* 机会 (Opportunity)
+* 威胁 (Threat)
 
 ### 模拟蒙特卡洛分析
 1. Assess the range for the variables being considered.
@@ -415,7 +421,7 @@ $Number of Comunication Channels = C(n, 2)$
 ### 缩短项目工期的方法
 * 关键路径 (Critical Path)
 * 关键链调度 (Critical Chain Scheduling)
-  > 在创建项目进度时考虑有限的资源，并且将缓冲包括进来以保护项目完成期限。重要概念有多任务（multitasking）和缓冲（buffer）。
+  > 在创建项目进度时考虑有限的资源，并且将缓冲包括进来以保护项目完成期限。重要概念有多任务(multitasking)和缓冲(buffer)。
 * 赶工 (Crashing)
   > 以最小的成本最大限度地压缩工期
 * 快速跟进 (Fast Tracking)
@@ -434,14 +440,14 @@ $Number of Comunication Channels = C(n, 2)$
 1. Establish leadership that promotes quality
 2. Understand the cost of quality
 3. Focus on organizational influences and workplace factors that effect quality
-4. Follow maturity（成熟） models
+4. Follow maturity(成熟) models
 
 ### 如何处理冲突
-1. **Confrontation**:(对抗，对峙）项目经理会直接面对冲突，通过使用解决问题的方式让相关主体一起解决他们的分歧。这种方式也叫做问题解决模式。
-2. **Compromise**:（折中，妥协）项目经理使用取舍来解决冲突。他们商量研究出解决方法，使辩论中的所有主体都能达成一致。
-3. **Smoothing**:项目经理不强调或忽略分歧的地方，而强调有共识的领域。
-4. **Forcing**:可以被看做是赢输的问题解决方式。项目经理提出自己的观点，有可能废弃其他观点。好斗或专制的主管或许会偏爱这种方式。
-5. **Withdrawal**:项目经理会实际发生或潜在的争议中退出或撤出。这是最不希望出现的一种冲突控制方式。
+1. **Confrontation**: (对抗，对峙)项目经理会直接面对冲突，通过使用解决问题的方式让相关主体一起解决他们的分歧。这种方式也叫做问题解决模式。
+2. **Compromise**: (折中，妥协)项目经理使用取舍来解决冲突。他们商量研究出解决方法，使辩论中的所有主体都能达成一致。
+3. **Smoothing**: 项目经理不强调或忽略分歧的地方，而强调有共识的领域。
+4. **Forcing**: 可以被看做是赢输的问题解决方式。项目经理提出自己的观点，有可能废弃其他观点。好斗或专制的主管或许会偏爱这种方式。
+5. **Withdrawal**: 项目经理会实际发生或潜在的争议中退出或撤出。这是最不希望出现的一种冲突控制方式。
 
 ### 如何改善项目交流
 * Develop better communication skills
